@@ -5,7 +5,7 @@ In the script for "Get a list of groups, change the path in the POST to the id o
 Integration to Detect Groups without rosters
 This is a compound integration to solve that problem of whether any of my groups have shifts with no members. Whilst you can do this through the web interface it relies on you going in and looking. With this new integration you can have a scheduled task kick this off every day to report on a list of groups you provide and it will message you with any gaps and empty shifts.
 
-It's not got all the bells and whistles, it doesn't have nice message formatting etc, but should give you a great head start. They are all easy for you to fix, I wanted you to have some of the fun!
+It does not have all the bells and whistles, it doesn't have nice message formatting etc, but should give you a great head start. They are all easy for you to fix, I wanted you to have some of the fun!
 
 Regarding scaling, this isn't going to work for big numbers of groups as the flow designer script will timeout. How big you can go, who knows. Give it a try and see.
 
